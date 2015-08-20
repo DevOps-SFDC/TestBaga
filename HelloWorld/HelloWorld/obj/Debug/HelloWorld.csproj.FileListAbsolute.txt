@@ -1,0 +1,9 @@
+C:\Users\julius.c.b.ca-aya\Desktop\VisualStudioTestingGround\TestBaga\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\julius.c.b.ca-aya\Desktop\VisualStudioTestingGround\TestBaga\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\julius.c.b.ca-aya\Desktop\VisualStudioTestingGround\TestBaga\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\julius.c.b.ca-aya\Desktop\VisualStudioTestingGround\TestBaga\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\julius.c.b.ca-aya\Desktop\VisualStudioTestingGround\TestBaga\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Users\julius.c.b.ca-aya\Desktop\VisualStudioTestingGround\TestBaga\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\julius.c.b.ca-aya\Desktop\VisualStudioTestingGround\TestBaga\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+C:\Users\julius.c.b.ca-aya\Desktop\VisualStudioTestingGround\TestBaga\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\julius.c.b.ca-aya\Desktop\VisualStudioTestingGround\TestBaga\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
